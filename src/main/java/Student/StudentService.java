@@ -30,7 +30,7 @@ public class StudentService {
         return students.size();
     }
     // В. Возвращать количество студентов конкретной учебной степени
-//                   (количество бакалавров или количество магистров).
+   //                   (количество бакалавров или количество магистров).
 
     public long getStudentCountByDegree(Degree degree) {
 
